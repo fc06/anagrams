@@ -1,2 +1,3582 @@
 objective: program gives anagrams from text file book.txt
 
+with the lord of the rings 862 anagrams
+
+=================
+Group 1 of anagrams 
+note 
+tone 
+=================
+Group 2 of anagrams 
+this 
+hits 
+=================
+Group 3 of anagrams 
+for 
+fro 
+=================
+Group 4 of anagrams 
+now 
+own 
+won 
+=================
+Group 5 of anagrams 
+runes 
+nurse 
+=================
+Group 6 of anagrams 
+on 
+no 
+=================
+Group 7 of anagrams 
+is 
+si 
+=================
+Group 8 of anagrams 
+there 
+three 
+=================
+Group 9 of anagrams 
+as 
+sa 
+=================
+Group 10 of anagrams 
+was 
+saw 
+=================
+Group 11 of anagrams 
+first 
+rifts 
+=================
+Group 12 of anagrams 
+his 
+ish 
+=================
+Group 13 of anagrams 
+friends 
+finders 
+=================
+Group 14 of anagrams 
+and 
+dan 
+=================
+Group 15 of anagrams 
+from 
+form 
+=================
+Group 16 of anagrams 
+part 
+trap 
+=================
+Group 17 of anagrams 
+great 
+grate 
+=================
+Group 18 of anagrams 
+however 
+whoever 
+=================
+Group 19 of anagrams 
+present 
+serpent 
+=================
+Group 20 of anagrams 
+who 
+how 
+=================
+Group 21 of anagrams 
+their 
+ither 
+ethir 
+=================
+Group 22 of anagrams 
+lore 
+eorl 
+=================
+Group 23 of anagrams 
+its 
+sit 
+=================
+Group 24 of anagrams 
+lies 
+isle 
+=================
+Group 25 of anagrams 
+ring 
+grin 
+=================
+Group 26 of anagrams 
+rings 
+grins 
+rsing 
+=================
+Group 27 of anagrams 
+old 
+dol 
+=================
+Group 28 of anagrams 
+last 
+salt 
+=================
+Group 29 of anagrams 
+names 
+means 
+manes 
+=================
+Group 30 of anagrams 
+are 
+ear 
+rea 
+=================
+Group 31 of anagrams 
+ruled 
+lured 
+=================
+Group 32 of anagrams 
+north 
+thorn 
+=================
+Group 33 of anagrams 
+an 
+na 
+=================
+Group 34 of anagrams 
+lived 
+devil 
+=================
+Group 35 of anagrams 
+ends 
+send 
+dens 
+=================
+Group 36 of anagrams 
+dry 
+dyr 
+=================
+Group 37 of anagrams 
+bare 
+bear 
+brea 
+=================
+Group 38 of anagrams 
+eat 
+tea 
+ate 
+=================
+Group 39 of anagrams 
+door 
+orod 
+=================
+Group 40 of anagrams 
+lots 
+lost 
+slot 
+=================
+Group 41 of anagrams 
+hats 
+hast 
+=================
+Group 42 of anagrams 
+coats 
+coast 
+=================
+Group 43 of anagrams 
+but 
+tub 
+=================
+Group 44 of anagrams 
+quite 
+quiet 
+=================
+Group 45 of anagrams 
+side 
+dies 
+=================
+Group 46 of anagrams 
+all 
+lal 
+=================
+Group 47 of anagrams 
+miles 
+smile 
+limes 
+slime 
+=================
+Group 48 of anagrams 
+cellars 
+callers 
+=================
+Group 49 of anagrams 
+these 
+sheet 
+=================
+Group 50 of anagrams 
+he 
+eh 
+=================
+Group 51 of anagrams 
+rooms 
+moors 
+=================
+Group 52 of anagrams 
+were 
+ewer 
+=================
+Group 53 of anagrams 
+same 
+eams 
+=================
+Group 54 of anagrams 
+indeed 
+denied 
+=================
+Group 55 of anagrams 
+left 
+felt 
+flet 
+=================
+Group 56 of anagrams 
+ones 
+nose 
+=================
+Group 57 of anagrams 
+over 
+rove 
+=================
+Group 58 of anagrams 
+garden 
+danger 
+=================
+Group 59 of anagrams 
+name 
+mean 
+mane 
+=================
+Group 60 of anagrams 
+time 
+item 
+=================
+Group 61 of anagrams 
+any 
+nay 
+=================
+Group 62 of anagrams 
+could 
+cloud 
+=================
+Group 63 of anagrams 
+things 
+nights 
+=================
+Group 64 of anagrams 
+respect 
+sceptre 
+=================
+Group 65 of anagrams 
+end 
+den 
+ned 
+=================
+Group 66 of anagrams 
+rare 
+rear 
+=================
+Group 67 of anagrams 
+us 
+su 
+=================
+Group 68 of anagrams 
+height 
+eighth 
+=================
+Group 69 of anagrams 
+except 
+expect 
+=================
+Group 70 of anagrams 
+when 
+hewn 
+=================
+Group 71 of anagrams 
+large 
+glare 
+=================
+Group 72 of anagrams 
+hear 
+hare 
+=================
+Group 73 of anagrams 
+mile 
+lime 
+=================
+Group 74 of anagrams 
+at 
+ta 
+=================
+Group 75 of anagrams 
+wear 
+ware 
+=================
+Group 76 of anagrams 
+heads 
+shade 
+=================
+Group 77 of anagrams 
+fingers 
+fringes 
+=================
+Group 78 of anagrams 
+ran 
+nar 
+=================
+Group 79 of anagrams 
+said 
+dais 
+=================
+Group 80 of anagrams 
+course 
+source 
+=================
+Group 81 of anagrams 
+once 
+cone 
+=================
+Group 82 of anagrams 
+ever 
+veer 
+=================
+Group 83 of anagrams 
+until 
+unlit 
+=================
+Group 84 of anagrams 
+grown 
+wrong 
+=================
+Group 85 of anagrams 
+being 
+begin 
+=================
+Group 86 of anagrams 
+reached 
+chaered 
+=================
+Group 87 of anagrams 
+came 
+mace 
+=================
+Group 88 of anagrams 
+if 
+fi 
+=================
+Group 89 of anagrams 
+tale 
+late 
+=================
+Group 90 of anagrams 
+tales 
+least 
+steal 
+stale 
+slate 
+=================
+Group 91 of anagrams 
+sprouted 
+proudest 
+=================
+Group 92 of anagrams 
+ages 
+sage 
+=================
+Group 93 of anagrams 
+friend 
+finder 
+=================
+Group 94 of anagrams 
+hat 
+tha 
+=================
+Group 95 of anagrams 
+beard 
+bread 
+bared 
+=================
+Group 96 of anagrams 
+below 
+elbow 
+=================
+Group 97 of anagrams 
+waist 
+waits 
+=================
+Group 98 of anagrams 
+feel 
+flee 
+=================
+Group 99 of anagrams 
+we 
+ew 
+=================
+Group 100 of anagrams 
+sat 
+sta 
+=================
+Group 101 of anagrams 
+seat 
+east 
+eats 
+=================
+Group 102 of anagrams 
+sailed 
+ladies 
+=================
+Group 103 of anagrams 
+blow 
+bowl 
+=================
+Group 104 of anagrams 
+am 
+ma 
+=================
+Group 105 of anagrams 
+share 
+hares 
+hears 
+=================
+Group 106 of anagrams 
+it's 
+'tis 
+'sit 
+=================
+Group 107 of anagrams 
+parts 
+traps 
+=================
+Group 108 of anagrams 
+use 
+sue 
+=================
+Group 109 of anagrams 
+mr 
+rm 
+=================
+Group 110 of anagrams 
+letters 
+trestle 
+=================
+Group 111 of anagrams 
+read 
+dear 
+dare 
+drea 
+=================
+Group 112 of anagrams 
+lot 
+tol 
+=================
+Group 113 of anagrams 
+"now 
+now" 
+=================
+Group 114 of anagrams 
+used 
+sued 
+=================
+Group 115 of anagrams 
+rescue 
+secure 
+=================
+Group 116 of anagrams 
+mad 
+dam 
+=================
+Group 117 of anagrams 
+trees 
+steer 
+estre 
+=================
+Group 118 of anagrams 
+shores 
+horses 
+=================
+Group 119 of anagrams 
+life 
+file 
+=================
+Group 120 of anagrams 
+rate 
+tear 
+=================
+Group 121 of anagrams 
+far 
+raf 
+=================
+Group 122 of anagrams 
+please 
+asleep 
+=================
+Group 123 of anagrams 
+shut 
+huts 
+thus 
+=================
+Group 124 of anagrams 
+dared 
+dread 
+=================
+Group 125 of anagrams 
+earth 
+heart 
+=================
+Group 126 of anagrams 
+break 
+brake 
+=================
+Group 127 of anagrams 
+sign 
+sing 
+=================
+Group 128 of anagrams 
+hobbit's 
+hobbits' 
+'hobbits 
+=================
+Group 129 of anagrams 
+strode 
+stored 
+sorted 
+=================
+Group 130 of anagrams 
+tablet 
+battle 
+=================
+Group 131 of anagrams 
+golden 
+longed 
+=================
+Group 132 of anagrams 
+nearest 
+eastern 
+earnest 
+=================
+Group 133 of anagrams 
+low 
+owl 
+=================
+Group 134 of anagrams 
+questions 
+quesstion 
+=================
+Group 135 of anagrams 
+table 
+bleat 
+=================
+Group 136 of anagrams 
+instead 
+stained 
+=================
+Group 137 of anagrams 
+step 
+pets 
+=================
+Group 138 of anagrams 
+breast 
+barest 
+=================
+Group 139 of anagrams 
+thing 
+night 
+=================
+Group 140 of anagrams 
+host 
+shot 
+=================
+Group 141 of anagrams 
+beer 
+bree 
+=================
+Group 142 of anagrams 
+cellar 
+recall 
+=================
+Group 143 of anagrams 
+mug 
+gum 
+=================
+Group 144 of anagrams 
+belts 
+blest 
+=================
+Group 145 of anagrams 
+each 
+ache 
+=================
+Group 146 of anagrams 
+tools 
+stool 
+=================
+Group 147 of anagrams 
+spade 
+despa 
+=================
+Group 148 of anagrams 
+re 
+er 
+=================
+Group 149 of anagrams 
+dori 
+dior 
+=================
+Group 150 of anagrams 
+nori 
+iron 
+=================
+Group 151 of anagrams 
+marched 
+charmed 
+=================
+Group 152 of anagrams 
+broad 
+board 
+=================
+Group 153 of anagrams 
+others 
+throes 
+=================
+Group 154 of anagrams 
+ale 
+lea 
+=================
+Group 155 of anagrams 
+porter 
+report 
+=================
+Group 156 of anagrams 
+bad 
+dab 
+=================
+Group 157 of anagrams 
+rat 
+tra 
+art 
+=================
+Group 158 of anagrams 
+top 
+pot 
+=================
+Group 159 of anagrams 
+made 
+mead 
+dame 
+=================
+Group 160 of anagrams 
+dent 
+tend 
+=================
+Group 161 of anagrams 
+row 
+wor 
+=================
+Group 162 of anagrams 
+pale 
+leap 
+plea 
+peal 
+=================
+Group 163 of anagrams 
+fat 
+aft 
+=================
+Group 164 of anagrams 
+times 
+items 
+smite 
+=================
+Group 165 of anagrams 
+feeling 
+fleeing 
+=================
+Group 166 of anagrams 
+right 
+girth 
+=================
+Group 167 of anagrams 
+dishes 
+hissed 
+=================
+Group 168 of anagrams 
+plates 
+petals 
+palest 
+=================
+Group 169 of anagrams 
+piled 
+plied 
+=================
+Group 170 of anagrams 
+trays 
+stray 
+=================
+Group 171 of anagrams 
+tables 
+stable 
+=================
+Group 172 of anagrams 
+tones 
+stone 
+onset 
+notes 
+=================
+Group 173 of anagrams 
+shan't 
+hasn't 
+=================
+Group 174 of anagrams 
+stayed 
+steady 
+=================
+Group 175 of anagrams 
+hates 
+haste 
+heats 
+=================
+Group 176 of anagrams 
+corks 
+rocks 
+=================
+Group 177 of anagrams 
+tread 
+trade 
+rated 
+=================
+Group 178 of anagrams 
+sent 
+nest 
+nets 
+ents 
+=================
+Group 179 of anagrams 
+dim 
+mid 
+=================
+Group 180 of anagrams 
+strange 
+garnets 
+=================
+Group 181 of anagrams 
+en 
+ne 
+=================
+Group 182 of anagrams 
+room 
+moor 
+=================
+Group 183 of anagrams 
+singing 
+signing 
+=================
+Group 184 of anagrams 
+halls 
+shall 
+=================
+Group 185 of anagrams 
+hoard 
+hador 
+=================
+Group 186 of anagrams 
+sword 
+words 
+=================
+Group 187 of anagrams 
+strung 
+grunts 
+=================
+Group 188 of anagrams 
+harps 
+sharp 
+=================
+Group 189 of anagrams 
+sung 
+guns 
+snug 
+=================
+Group 190 of anagrams 
+spread 
+spared 
+=================
+Group 191 of anagrams 
+dale 
+deal 
+lead 
+lade 
+=================
+Group 192 of anagrams 
+dragon's 
+dragons' 
+=================
+Group 193 of anagrams 
+doom 
+mood 
+=================
+Group 194 of anagrams 
+sang 
+snag 
+=================
+Group 195 of anagrams 
+leapt 
+plate 
+=================
+Group 196 of anagrams 
+lamp 
+palm 
+=================
+Group 197 of anagrams 
+dawn 
+wand 
+=================
+Group 198 of anagrams 
+shovel 
+hovels 
+=================
+Group 199 of anagrams 
+speak 
+peaks 
+spake 
+=================
+Group 200 of anagrams 
+ways 
+sway 
+=================
+Group 201 of anagrams 
+brief 
+fibre 
+=================
+Group 202 of anagrams 
+drawing 
+warding 
+=================
+Group 203 of anagrams 
+fits 
+fist 
+sift 
+=================
+Group 204 of anagrams 
+ride 
+dire 
+ired 
+=================
+Group 205 of anagrams 
+horse 
+shore 
+=================
+Group 206 of anagrams 
+gol 
+log 
+=================
+Group 207 of anagrams 
+clean 
+lance 
+=================
+Group 208 of anagrams 
+wake 
+weak 
+=================
+Group 209 of anagrams 
+dignity 
+tidying 
+=================
+Group 210 of anagrams 
+done 
+oned 
+=================
+Group 211 of anagrams 
+desert 
+rested 
+=================
+Group 212 of anagrams 
+reward 
+drawer 
+=================
+Group 213 of anagrams 
+meeting 
+teeming 
+=================
+Group 214 of anagrams 
+stop 
+pots 
+post 
+spot 
+tops 
+=================
+Group 215 of anagrams 
+tried 
+tired 
+=================
+Group 216 of anagrams 
+snap 
+span 
+pans 
+=================
+Group 217 of anagrams 
+ought 
+tough 
+=================
+Group 218 of anagrams 
+te 
+et 
+=================
+Group 219 of anagrams 
+has 
+ash 
+sha 
+=================
+Group 220 of anagrams 
+live 
+evil 
+vile 
+veil 
+=================
+Group 221 of anagrams 
+let's 
+'lest 
+=================
+Group 222 of anagrams 
+shad 
+dash 
+=================
+Group 223 of anagrams 
+dwarves' 
+'dwarves 
+=================
+Group 224 of anagrams 
+west 
+stew 
+=================
+Group 225 of anagrams 
+ink 
+kin 
+=================
+Group 226 of anagrams 
+"how 
+"who 
+=================
+Group 227 of anagrams 
+wards 
+draws 
+sward 
+=================
+Group 228 of anagrams 
+lake 
+leak 
+=================
+Group 229 of anagrams 
+town 
+wont 
+nowt 
+=================
+Group 230 of anagrams 
+south 
+shout 
+=================
+Group 231 of anagrams 
+ideas 
+aside 
+=================
+Group 232 of anagrams 
+risks 
+rissk 
+=================
+Group 233 of anagrams 
+waste 
+sweat 
+=================
+Group 234 of anagrams 
+worse 
+swore 
+=================
+Group 235 of anagrams 
+arming 
+margin 
+=================
+Group 236 of anagrams 
+steam 
+meats 
+mates 
+=================
+Group 237 of anagrams 
+later 
+alert 
+alter 
+=================
+Group 238 of anagrams 
+lives 
+evils 
+veils 
+=================
+Group 239 of anagrams 
+singed 
+design 
+signed 
+=================
+Group 240 of anagrams 
+earn 
+near 
+=================
+Group 241 of anagrams 
+off" 
+"off 
+=================
+Group 242 of anagrams 
+heir 
+hire 
+=================
+Group 243 of anagrams 
+blame 
+amble 
+=================
+Group 244 of anagrams 
+praised 
+despair 
+=================
+Group 245 of anagrams 
+early 
+layer 
+=================
+Group 246 of anagrams 
+agree 
+eager 
+=================
+Group 247 of anagrams 
+'em 
+'me 
+=================
+Group 248 of anagrams 
+spare 
+spear 
+sprea 
+=================
+Group 249 of anagrams 
+fearful 
+felaruf 
+=================
+Group 250 of anagrams 
+pan 
+nap 
+=================
+Group 251 of anagrams 
+you" 
+"you 
+=================
+Group 252 of anagrams 
+lit 
+ilt 
+=================
+Group 253 of anagrams 
+past 
+spat 
+=================
+Group 254 of anagrams 
+ten 
+net 
+ent 
+=================
+Group 255 of anagrams 
+fluster 
+restful 
+=================
+Group 256 of anagrams 
+mantel 
+mantle 
+lament 
+=================
+Group 257 of anagrams 
+inn 
+nin 
+=================
+Group 258 of anagrams 
+"no 
+"on 
+=================
+Group 259 of anagrams 
+lane 
+lean 
+=================
+Group 260 of anagrams 
+road 
+dora 
+arod 
+=================
+Group 261 of anagrams 
+"up 
+up" 
+=================
+Group 262 of anagrams 
+weather 
+wreathe 
+=================
+Group 263 of anagrams 
+rode 
+edro 
+doer 
+=================
+Group 264 of anagrams 
+passed 
+spades 
+=================
+Group 265 of anagrams 
+ambling 
+blaming 
+=================
+Group 266 of anagrams 
+views 
+wives 
+=================
+Group 267 of anagrams 
+drier 
+rider 
+irred 
+=================
+Group 268 of anagrams 
+shook 
+hooks 
+=================
+Group 269 of anagrams 
+rides 
+iders 
+=================
+Group 270 of anagrams 
+seldom 
+models 
+=================
+Group 271 of anagrams 
+leading 
+dealing 
+=================
+Group 272 of anagrams 
+caution 
+auction 
+=================
+Group 273 of anagrams 
+hoot 
+otho 
+=================
+Group 274 of anagrams 
+pride 
+pried 
+=================
+Group 275 of anagrams 
+sup 
+ups 
+=================
+Group 276 of anagrams 
+stirred 
+strider 
+=================
+Group 277 of anagrams 
+trolls 
+stroll 
+=================
+Group 278 of anagrams 
+shape 
+heaps 
+=================
+Group 279 of anagrams 
+beats 
+beast 
+=================
+Group 280 of anagrams 
+"shut 
+"thus 
+=================
+Group 281 of anagrams 
+d'yer 
+yer'd 
+=================
+Group 282 of anagrams 
+bill' 
+'bill 
+=================
+Group 283 of anagrams 
+o' 
+'o 
+=================
+Group 284 of anagrams 
+leg 
+gel 
+gle 
+=================
+Group 285 of anagrams 
+lips 
+slip 
+=================
+Group 286 of anagrams 
+warned 
+wander 
+warden 
+=================
+Group 287 of anagrams 
+trolls' 
+troll's 
+'trolls 
+=================
+Group 288 of anagrams 
+dagger 
+ragged 
+=================
+Group 289 of anagrams 
+alarmed 
+eldamar 
+=================
+Group 290 of anagrams 
+new 
+wen 
+=================
+Group 291 of anagrams 
+slow 
+owls 
+=================
+Group 292 of anagrams 
+i'll 
+'ill 
+=================
+Group 293 of anagrams 
+talks 
+stalk 
+=================
+Group 294 of anagrams 
+huggins 
+gushing 
+=================
+Group 295 of anagrams 
+arms 
+rams 
+=================
+Group 296 of anagrams 
+sack 
+cask 
+=================
+Group 297 of anagrams 
+'re 
+'er 
+=================
+Group 298 of anagrams 
+sacks 
+casks 
+=================
+Group 299 of anagrams 
+teach 
+cheat 
+=================
+Group 300 of anagrams 
+friends' 
+friend's 
+'friends 
+=================
+Group 301 of anagrams 
+tom's 
+'most 
+=================
+Group 302 of anagrams 
+tied 
+tide 
+=================
+Group 303 of anagrams 
+skin 
+sink 
+=================
+Group 304 of anagrams 
+fear 
+fare 
+=================
+Group 305 of anagrams 
+liar 
+lair 
+rail 
+=================
+Group 306 of anagrams 
+we'll 
+'well 
+well' 
+=================
+Group 307 of anagrams 
+night's 
+'things 
+thing's 
+=================
+Group 308 of anagrams 
+coins 
+scion 
+=================
+Group 309 of anagrams 
+un 
+nu 
+=================
+Group 310 of anagrams 
+slept 
+spelt 
+pelts 
+=================
+Group 311 of anagrams 
+we're 
+'were 
+=================
+Group 312 of anagrams 
+rest 
+ster 
+ters 
+=================
+Group 313 of anagrams 
+forded 
+fodder 
+=================
+Group 314 of anagrams 
+shallow 
+hallows 
+=================
+Group 315 of anagrams 
+day's 
+days' 
+'days 
+=================
+Group 316 of anagrams 
+sunlight 
+hustling 
+=================
+Group 317 of anagrams 
+tips 
+pits 
+spit 
+=================
+Group 318 of anagrams 
+snow 
+sown 
+owns 
+=================
+Group 319 of anagrams 
+led 
+del 
+=================
+Group 320 of anagrams 
+elrond 
+neldor 
+=================
+Group 321 of anagrams 
+slope 
+poles 
+=================
+Group 322 of anagrams 
+rock 
+cork 
+=================
+Group 323 of anagrams 
+silent 
+listen 
+=================
+Group 324 of anagrams 
+neither 
+therein 
+=================
+Group 325 of anagrams 
+search 
+arches 
+=================
+Group 326 of anagrams 
+risen 
+resin 
+reins 
+rinse 
+=================
+Group 327 of anagrams 
+rose 
+sore 
+ores 
+=================
+Group 328 of anagrams 
+stream 
+master 
+=================
+Group 329 of anagrams 
+lil 
+ill 
+=================
+Group 330 of anagrams 
+ha 
+ah 
+=================
+Group 331 of anagrams 
+care 
+race 
+=================
+Group 332 of anagrams 
+flows 
+fowls 
+=================
+Group 333 of anagrams 
+streams 
+masters 
+masster 
+=================
+Group 334 of anagrams 
+"mind 
+mind" 
+=================
+Group 335 of anagrams 
+wore 
+ower 
+=================
+Group 336 of anagrams 
+war 
+raw 
+=================
+Group 337 of anagrams 
+hated 
+death 
+=================
+Group 338 of anagrams 
+burned 
+burden 
+=================
+Group 339 of anagrams 
+wrote 
+tower 
+=================
+Group 340 of anagrams 
+thin 
+hint 
+=================
+Group 341 of anagrams 
+setting 
+testing 
+=================
+Group 342 of anagrams 
+skill 
+kills 
+=================
+Group 343 of anagrams 
+amid 
+maid 
+=================
+Group 344 of anagrams 
+speed 
+deeps 
+=================
+Group 345 of anagrams 
+ready 
+rayed 
+=================
+Group 346 of anagrams 
+dangers 
+gardens 
+=================
+Group 347 of anagrams 
+they' 
+'they 
+=================
+Group 348 of anagrams 
+sending 
+endings 
+=================
+Group 349 of anagrams 
+lie 
+ile 
+iel 
+=================
+Group 350 of anagrams 
+dream 
+armed 
+=================
+Group 351 of anagrams 
+ponies' 
+'ponies 
+=================
+Group 352 of anagrams 
+yell 
+lley 
+elyl 
+=================
+Group 353 of anagrams 
+grab 
+garb 
+brag 
+=================
+Group 354 of anagrams 
+ho 
+oh 
+=================
+Group 355 of anagrams 
+cavern 
+carven 
+craven 
+=================
+Group 356 of anagrams 
+smelt 
+melts 
+=================
+Group 357 of anagrams 
+linked 
+kindle 
+=================
+Group 358 of anagrams 
+die 
+ied 
+=================
+Group 359 of anagrams 
+hate 
+heat 
+=================
+Group 360 of anagrams 
+grudge 
+rugged 
+=================
+Group 361 of anagrams 
+defend 
+fended 
+=================
+Group 362 of anagrams 
+rage 
+gear 
+grea 
+=================
+Group 363 of anagrams 
+gnash 
+hangs 
+=================
+Group 364 of anagrams 
+snakes 
+sneaks 
+=================
+Group 365 of anagrams 
+cats 
+cast 
+=================
+Group 366 of anagrams 
+mountain's 
+mountains' 
+=================
+Group 367 of anagrams 
+delight 
+lighted 
+=================
+Group 368 of anagrams 
+"are 
+are" 
+=================
+Group 369 of anagrams 
+hordes 
+horsed 
+=================
+Group 370 of anagrams 
+pace 
+cape 
+=================
+Group 371 of anagrams 
+goblins' 
+goblin's 
+=================
+Group 372 of anagrams 
+bats 
+stab 
+=================
+Group 373 of anagrams 
+meal 
+lame 
+=================
+Group 374 of anagrams 
+striking 
+skirting 
+=================
+Group 375 of anagrams 
+impression 
+permission 
+=================
+Group 376 of anagrams 
+lose 
+sole 
+sloe 
+=================
+Group 377 of anagrams 
+baggins' 
+'baggins 
+=================
+Group 378 of anagrams 
+tireder 
+retired 
+=================
+Group 379 of anagrams 
+pool 
+loop 
+=================
+Group 380 of anagrams 
+pools 
+loops 
+=================
+Group 381 of anagrams 
+meat 
+tame 
+mate 
+=================
+Group 382 of anagrams 
+feast 
+fates 
+=================
+Group 383 of anagrams 
+ye 
+ey 
+=================
+Group 384 of anagrams 
+gain 
+agin 
+=================
+Group 385 of anagrams 
+poser 
+ropes 
+=================
+Group 386 of anagrams 
+teaching 
+cheating 
+=================
+Group 387 of anagrams 
+cleared 
+declare 
+=================
+Group 388 of anagrams 
+cat 
+act 
+=================
+Group 389 of anagrams 
+ogres 
+gorse 
+=================
+Group 390 of anagrams 
+state 
+taste 
+=================
+Group 391 of anagrams 
+backwards 
+drawbacks 
+=================
+Group 392 of anagrams 
+sacred 
+scared 
+cedars 
+=================
+Group 393 of anagrams 
+finger 
+fringe 
+=================
+Group 394 of anagrams 
+parted 
+depart 
+=================
+Group 395 of anagrams 
+softer 
+forest 
+=================
+Group 396 of anagrams 
+sharper 
+harpers 
+=================
+Group 397 of anagrams 
+maddened 
+demanded 
+=================
+Group 398 of anagrams 
+close 
+celos 
+=================
+Group 399 of anagrams 
+lamps 
+palms 
+=================
+Group 400 of anagrams 
+he's 
+'she 
+=================
+Group 401 of anagrams 
+noser 
+snore 
+=================
+Group 402 of anagrams 
+peered 
+deeper 
+=================
+Group 403 of anagrams 
+tense 
+teens 
+esent 
+=================
+Group 404 of anagrams 
+hatred 
+thread 
+dearth 
+=================
+Group 405 of anagrams 
+prey 
+pyre 
+=================
+Group 406 of anagrams 
+cared 
+raced 
+cedar 
+=================
+Group 407 of anagrams 
+space 
+paces 
+=================
+Group 408 of anagrams 
+draw 
+ward 
+=================
+Group 409 of anagrams 
+sneak 
+snake 
+=================
+Group 410 of anagrams 
+to' 
+'to 
+=================
+Group 411 of anagrams 
+drat 
+dart 
+=================
+Group 412 of anagrams 
+drop 
+prod 
+=================
+Group 413 of anagrams 
+dashed 
+shaded 
+=================
+Group 414 of anagrams 
+main 
+mina 
+=================
+Group 415 of anagrams 
+gates 
+stage 
+=================
+Group 416 of anagrams 
+study 
+dusty 
+=================
+Group 417 of anagrams 
+slid 
+lids 
+=================
+Group 418 of anagrams 
+marching 
+charming 
+=================
+Group 419 of anagrams 
+swarm 
+warms 
+=================
+Group 420 of anagrams 
+dog 
+god 
+=================
+Group 421 of anagrams 
+lowest 
+towels 
+=================
+Group 422 of anagrams 
+arm 
+ram 
+mar 
+=================
+Group 423 of anagrams 
+wolf 
+flow 
+fowl 
+=================
+Group 424 of anagrams 
+named 
+amend 
+=================
+Group 425 of anagrams 
+raid 
+arid 
+=================
+Group 426 of anagrams 
+hit 
+ith 
+=================
+Group 427 of anagrams 
+anger 
+range 
+=================
+Group 428 of anagrams 
+keen 
+knee 
+neek 
+=================
+Group 429 of anagrams 
+spears 
+spares 
+sparse 
+=================
+Group 430 of anagrams 
+feared 
+deafer 
+=================
+Group 431 of anagrams 
+wings 
+swing 
+=================
+Group 432 of anagrams 
+nesting 
+entings 
+=================
+Group 433 of anagrams 
+ya 
+ay 
+=================
+Group 434 of anagrams 
+bake 
+beak 
+=================
+Group 435 of anagrams 
+skins 
+sinks 
+=================
+Group 436 of anagrams 
+cinders 
+discern 
+=================
+Group 437 of anagrams 
+borne 
+beorn 
+boner 
+=================
+Group 438 of anagrams 
+highest 
+heights 
+=================
+Group 439 of anagrams 
+eagle's 
+eagles' 
+=================
+Group 440 of anagrams 
+lest 
+lets 
+=================
+Group 441 of anagrams 
+shelf 
+flesh 
+=================
+Group 442 of anagrams 
+rescued 
+secured 
+=================
+Group 443 of anagrams 
+shoot 
+hoots 
+sooth 
+=================
+Group 444 of anagrams 
+loaf 
+foal 
+=================
+Group 445 of anagrams 
+sails 
+lassi 
+=================
+Group 446 of anagrams 
+earned 
+neared 
+=================
+Group 447 of anagrams 
+march 
+charm 
+=================
+Group 448 of anagrams 
+ranges 
+angers 
+=================
+Group 449 of anagrams 
+'the 
+the' 
+=================
+Group 450 of anagrams 
+ripe 
+pier 
+=================
+Group 451 of anagrams 
+swell 
+wells 
+=================
+Group 452 of anagrams 
+hornets 
+shorten 
+thrones 
+=================
+Group 453 of anagrams 
+drones 
+snored 
+=================
+Group 454 of anagrams 
+rows 
+swor 
+=================
+Group 455 of anagrams 
+straw 
+swart 
+=================
+Group 456 of anagrams 
+and' 
+'and 
+=================
+Group 457 of anagrams 
+continued 
+unnoticed 
+=================
+Group 458 of anagrams 
+posts 
+spots 
+stops 
+=================
+Group 459 of anagrams 
+crossing 
+scorings 
+=================
+Group 460 of anagrams 
+deserve 
+severed 
+=================
+Group 461 of anagrams 
+bore 
+robe 
+=================
+Group 462 of anagrams 
+edges 
+sedge 
+=================
+Group 463 of anagrams 
+bowls 
+blows 
+=================
+Group 464 of anagrams 
+nod 
+don 
+=================
+Group 465 of anagrams 
+verses 
+serves 
+=================
+Group 466 of anagrams 
+racing 
+caring 
+=================
+Group 467 of anagrams 
+stark 
+tarks 
+=================
+Group 468 of anagrams 
+fears 
+safer 
+=================
+Group 469 of anagrams 
+bears' 
+bear's 
+=================
+Group 470 of anagrams 
+leads 
+deals 
+dales 
+=================
+Group 471 of anagrams 
+theirs 
+riseth 
+=================
+Group 472 of anagrams 
+dances 
+ascend 
+=================
+Group 473 of anagrams 
+see" 
+"see 
+=================
+Group 474 of anagrams 
+burnt 
+brunt 
+=================
+Group 475 of anagrams 
+nailed 
+denial 
+=================
+Group 476 of anagrams 
+herds 
+shred 
+=================
+Group 477 of anagrams 
+deer 
+reed 
+ered 
+rede 
+=================
+Group 478 of anagrams 
+horns 
+shorn 
+=================
+Group 479 of anagrams 
+cheer 
+erech 
+=================
+Group 480 of anagrams 
+resist 
+sister 
+=================
+Group 481 of anagrams 
+flies 
+files 
+=================
+Group 482 of anagrams 
+leaned 
+leaden 
+=================
+Group 483 of anagrams 
+dense 
+needs 
+=================
+Group 484 of anagrams 
+threads 
+hardest 
+=================
+Group 485 of anagrams 
+stare 
+tears 
+=================
+Group 486 of anagrams 
+throw 
+worth 
+wroth 
+=================
+Group 487 of anagrams 
+rope 
+oper 
+=================
+Group 488 of anagrams 
+stared 
+trades 
+=================
+Group 489 of anagrams 
+hart 
+rath 
+=================
+Group 490 of anagrams 
+lasted 
+salted 
+=================
+Group 491 of anagrams 
+sawn 
+swan 
+=================
+Group 492 of anagrams 
+scores 
+orcses 
+=================
+Group 493 of anagrams 
+result 
+rustle 
+=================
+Group 494 of anagrams 
+glinted 
+tingled 
+=================
+Group 495 of anagrams 
+feeding 
+feigned 
+=================
+Group 496 of anagrams 
+tip 
+pit 
+=================
+Group 497 of anagrams 
+enraged 
+angered 
+=================
+Group 498 of anagrams 
+spiders' 
+spider's 
+=================
+Group 499 of anagrams 
+little' 
+'little 
+=================
+Group 500 of anagrams 
+froth 
+forth 
+=================
+Group 501 of anagrams 
+slashing 
+lashings 
+=================
+Group 502 of anagrams 
+shock 
+hocks 
+=================
+Group 503 of anagrams 
+fate 
+feat 
+=================
+Group 504 of anagrams 
+wiser 
+wires 
+=================
+Group 505 of anagrams 
+king's 
+kings' 
+'kings 
+=================
+Group 506 of anagrams 
+tilling 
+lilting 
+=================
+Group 507 of anagrams 
+'" 
+"' 
+=================
+Group 508 of anagrams 
+riot 
+tiro 
+=================
+Group 509 of anagrams 
+failed 
+afield 
+=================
+Group 510 of anagrams 
+shares 
+shears 
+=================
+Group 511 of anagrams 
+claimed 
+declaim 
+=================
+Group 512 of anagrams 
+vines 
+veins 
+=================
+Group 513 of anagrams 
+poled 
+loped 
+=================
+Group 514 of anagrams 
+boats 
+boast 
+=================
+Group 515 of anagrams 
+feasts 
+safest 
+=================
+Group 516 of anagrams 
+idle 
+lied 
+=================
+Group 517 of anagrams 
+pot's 
+'stop 
+=================
+Group 518 of anagrams 
+tubs 
+stub 
+=================
+Group 519 of anagrams 
+float 
+aloft 
+=================
+Group 520 of anagrams 
+ashore 
+hoarse 
+=================
+Group 521 of anagrams 
+amount 
+mounta 
+=================
+Group 522 of anagrams 
+paler 
+pearl 
+=================
+Group 523 of anagrams 
+roped 
+pored 
+=================
+Group 524 of anagrams 
+trail 
+trial 
+=================
+Group 525 of anagrams 
+bustle 
+subtle 
+=================
+Group 526 of anagrams 
+deepest 
+steeped 
+=================
+Group 527 of anagrams 
+courses 
+sources 
+=================
+Group 528 of anagrams 
+isles 
+lisse 
+=================
+Group 529 of anagrams 
+disuse 
+issued 
+=================
+Group 530 of anagrams 
+recent 
+centre 
+=================
+Group 531 of anagrams 
+elves' 
+'elves 
+=================
+Group 532 of anagrams 
+carted 
+traced 
+=================
+Group 533 of anagrams 
+bruise 
+buries 
+busier 
+=================
+Group 534 of anagrams 
+maddening 
+demanding 
+=================
+Group 535 of anagrams 
+master's 
+masters' 
+=================
+Group 536 of anagrams 
+presents 
+pertness 
+=================
+Group 537 of anagrams 
+serve 
+verse 
+=================
+Group 538 of anagrams 
+bade 
+bead 
+abed 
+=================
+Group 539 of anagrams 
+ridge 
+dirge 
+=================
+Group 540 of anagrams 
+ledge 
+glede 
+=================
+Group 541 of anagrams 
+bolt 
+blot 
+=================
+Group 542 of anagrams 
+snail 
+slain 
+nails 
+=================
+Group 543 of anagrams 
+all' 
+'all 
+=================
+Group 544 of anagrams 
+direct 
+credit 
+=================
+Group 545 of anagrams 
+throb 
+broth 
+=================
+Group 546 of anagrams 
+rumble 
+lumber 
+=================
+Group 547 of anagrams 
+slumber 
+rumbles 
+=================
+Group 548 of anagrams 
+'more 
+more' 
+=================
+Group 549 of anagrams 
+rule 
+lure 
+=================
+Group 550 of anagrams 
+soared 
+edoras 
+=================
+Group 551 of anagrams 
+terrace 
+retrace 
+=================
+Group 552 of anagrams 
+barely 
+bleary 
+barley 
+=================
+Group 553 of anagrams 
+leader 
+dealer 
+=================
+Group 554 of anagrams 
+smiled 
+slimed 
+misled 
+=================
+Group 555 of anagrams 
+trading 
+darting 
+=================
+Group 556 of anagrams 
+esgaroth 
+shortage 
+=================
+Group 557 of anagrams 
+girion 
+origin 
+=================
+Group 558 of anagrams 
+sons' 
+son's 
+=================
+Group 559 of anagrams 
+pierce 
+recipe 
+=================
+Group 560 of anagrams 
+worm's 
+'worms 
+=================
+Group 561 of anagrams 
+arts 
+rats 
+star 
+=================
+Group 562 of anagrams 
+reverse 
+reserve 
+=================
+Group 563 of anagrams 
+chin 
+inch 
+=================
+Group 564 of anagrams 
+rise 
+sire 
+ires 
+=================
+Group 565 of anagrams 
+hafted 
+fadeth 
+=================
+Group 566 of anagrams 
+blasted 
+stabled 
+=================
+Group 567 of anagrams 
+ow 
+wo 
+=================
+Group 568 of anagrams 
+blotted 
+bottled 
+=================
+Group 569 of anagrams 
+"cut 
+cut" 
+=================
+Group 570 of anagrams 
+vessel 
+selves 
+=================
+Group 571 of anagrams 
+arise 
+raise 
+=================
+Group 572 of anagrams 
+bard 
+drab 
+=================
+Group 573 of anagrams 
+wither 
+whiter 
+=================
+Group 574 of anagrams 
+field 
+filed 
+=================
+Group 575 of anagrams 
+gledes 
+sledge 
+ledges 
+=================
+Group 576 of anagrams 
+alas 
+asla 
+=================
+Group 577 of anagrams 
+rebuild 
+builder 
+=================
+Group 578 of anagrams 
+raising 
+arising 
+=================
+Group 579 of anagrams 
+dive 
+devi 
+=================
+Group 580 of anagrams 
+abroad 
+aboard 
+=================
+Group 581 of anagrams 
+needless 
+lessened 
+=================
+Group 582 of anagrams 
+ours 
+sour 
+=================
+Group 583 of anagrams 
+altered 
+related 
+=================
+Group 584 of anagrams 
+throne 
+northe 
+=================
+Group 585 of anagrams 
+old' 
+'old 
+=================
+Group 586 of anagrams 
+descent 
+scented 
+=================
+Group 587 of anagrams 
+sires 
+rises 
+=================
+Group 588 of anagrams 
+rag 
+gar 
+=================
+Group 589 of anagrams 
+starve 
+vaster 
+=================
+Group 590 of anagrams 
+princes 
+pincers 
+=================
+Group 591 of anagrams 
+untied 
+united 
+=================
+Group 592 of anagrams 
+'how 
+'who 
+=================
+Group 593 of anagrams 
+ail 
+ial 
+=================
+Group 594 of anagrams 
+hose 
+shoe 
+=================
+Group 595 of anagrams 
+reopen 
+opener 
+=================
+Group 596 of anagrams 
+astir 
+stair 
+=================
+Group 597 of anagrams 
+bolg 
+glob 
+=================
+Group 598 of anagrams 
+rending 
+grinned 
+=================
+Group 599 of anagrams 
+streaming 
+mastering 
+=================
+Group 600 of anagrams 
+vi 
+iv 
+=================
+Group 601 of anagrams 
+falls' 
+fall's 
+=================
+Group 602 of anagrams 
+corpses 
+process 
+=================
+Group 603 of anagrams 
+battles 
+tablets 
+=================
+Group 604 of anagrams 
+dealt 
+delta 
+=================
+Group 605 of anagrams 
+alder 
+eldar 
+=================
+Group 606 of anagrams 
+jest 
+jets 
+=================
+Group 607 of anagrams 
+stating 
+tasting 
+=================
+Group 608 of anagrams 
+sell 
+ells 
+=================
+Group 609 of anagrams 
+sale 
+seal 
+=================
+Group 610 of anagrams 
+legal 
+llage 
+=================
+Group 611 of anagrams 
+refounded 
+foundered 
+=================
+Group 612 of anagrams 
+shire 
+heirs 
+=================
+Group 613 of anagrams 
+havens 
+shaven 
+=================
+Group 614 of anagrams 
+duties 
+suited 
+=================
+Group 615 of anagrams 
+teller 
+retell 
+=================
+Group 616 of anagrams 
+reader 
+reared 
+dearer 
+=================
+Group 617 of anagrams 
+past' 
+'past 
+=================
+Group 618 of anagrams 
+links 
+slink 
+=================
+Group 619 of anagrams 
+resides 
+desires 
+=================
+Group 620 of anagrams 
+shire' 
+'shire 
+heirs' 
+=================
+Group 621 of anagrams 
+cars 
+scar 
+=================
+Group 622 of anagrams 
+rema 
+mare 
+=================
+Group 623 of anagrams 
+ined 
+dine 
+=================
+Group 624 of anagrams 
+farmed 
+framed 
+=================
+Group 625 of anagrams 
+folk' 
+'folk 
+=================
+Group 626 of anagrams 
+races 
+scare 
+cares 
+acres 
+=================
+Group 627 of anagrams 
+apt 
+tap 
+pat 
+=================
+Group 628 of anagrams 
+vales 
+slave 
+=================
+Group 629 of anagrams 
+strain 
+trains 
+=================
+Group 630 of anagrams 
+dates 
+stead 
+=================
+Group 631 of anagrams 
+thain 
+naith 
+=================
+Group 632 of anagrams 
+sites 
+sties 
+=================
+Group 633 of anagrams 
+har 
+rah 
+=================
+Group 634 of anagrams 
+'this 
+this' 
+=================
+Group 635 of anagrams 
+ts 
+st 
+=================
+Group 636 of anagrams 
+im 
+mi 
+=================
+Group 637 of anagrams 
+refer 
+freer 
+=================
+Group 638 of anagrams 
+pre 
+per 
+=================
+Group 639 of anagrams 
+moot 
+toom 
+=================
+Group 640 of anagrams 
+latter 
+rattle 
+=================
+Group 641 of anagrams 
+haw 
+wha 
+=================
+Group 642 of anagrams 
+slay 
+lays 
+=================
+Group 643 of anagrams 
+wardens 
+wanders 
+=================
+Group 644 of anagrams 
+elessar 
+eressla 
+=================
+Group 645 of anagrams 
+stated 
+tasted 
+=================
+Group 646 of anagrams 
+elvish' 
+'elvish 
+=================
+Group 647 of anagrams 
+relating 
+altering 
+=================
+Group 648 of anagrams 
+'you 
+you' 
+=================
+Group 649 of anagrams 
+lively 
+evilly 
+=================
+Group 650 of anagrams 
+demand 
+damned 
+=================
+Group 651 of anagrams 
+'a 
+a' 
+=================
+Group 652 of anagrams 
+'but 
+but' 
+=================
+Group 653 of anagrams 
+dad 
+add 
+=================
+Group 654 of anagrams 
+'there 
+'three 
+=================
+Group 655 of anagrams 
+'then 
+then' 
+=================
+Group 656 of anagrams 
+'ah 
+'ha 
+=================
+Group 657 of anagrams 
+end's 
+'send 
+=================
+Group 658 of anagrams 
+gape 
+page 
+=================
+Group 659 of anagrams 
+envied 
+veined 
+=================
+Group 660 of anagrams 
+claps 
+scalp 
+clasp 
+=================
+Group 661 of anagrams 
+fla 
+fal 
+=================
+Group 662 of anagrams 
+unrelated 
+unaltered 
+=================
+Group 663 of anagrams 
+parental 
+paternal 
+=================
+Group 664 of anagrams 
+bored 
+robed 
+=================
+Group 665 of anagrams 
+odo 
+ood 
+=================
+Group 666 of anagrams 
+dearly 
+lready 
+=================
+Group 667 of anagrams 
+'no 
+'on 
+=================
+Group 668 of anagrams 
+'oh 
+'ho 
+=================
+Group 669 of anagrams 
+'he 
+'eh 
+=================
+Group 670 of anagrams 
+'yet 
+yet' 
+=================
+Group 671 of anagrams 
+owe 
+woe 
+=================
+Group 672 of anagrams 
+rob 
+bor 
+orb 
+=================
+Group 673 of anagrams 
+glanced 
+clanged 
+=================
+Group 674 of anagrams 
+hugo 
+ough 
+=================
+Group 675 of anagrams 
+insult 
+sunlit 
+=================
+Group 676 of anagrams 
+sober 
+robes 
+=================
+Group 677 of anagrams 
+deafest 
+defeats 
+feasted 
+=================
+Group 678 of anagrams 
+'who's 
+'how's 
+=================
+Group 679 of anagrams 
+stride 
+driest 
+=================
+Group 680 of anagrams 
+trees' 
+tree's 
+=================
+Group 681 of anagrams 
+mor 
+rom 
+=================
+Group 682 of anagrams 
+takes 
+stake 
+=================
+Group 683 of anagrams 
+'of 
+of' 
+=================
+Group 684 of anagrams 
+mode 
+dome 
+=================
+Group 685 of anagrams 
+bind 
+dbin 
+=================
+Group 686 of anagrams 
+lacks 
+slack 
+=================
+Group 687 of anagrams 
+stern 
+rents 
+=================
+Group 688 of anagrams 
+mud 
+dum 
+=================
+Group 689 of anagrams 
+threats 
+shatter 
+=================
+Group 690 of anagrams 
+chase 
+aches 
+=================
+Group 691 of anagrams 
+'would 
+would' 
+=================
+Group 692 of anagrams 
+unscathed 
+staunched 
+=================
+Group 693 of anagrams 
+anvils 
+silvan 
+=================
+Group 694 of anagrams 
+ruling 
+ringlu 
+=================
+Group 695 of anagrams 
+streamed 
+mastered 
+=================
+Group 696 of anagrams 
+gamgee's 
+gamgees' 
+=================
+Group 697 of anagrams 
+lag 
+gla 
+=================
+Group 698 of anagrams 
+angle 
+galen 
+=================
+Group 699 of anagrams 
+exiles 
+ilexes 
+=================
+Group 700 of anagrams 
+brakes 
+breaks 
+bakers 
+=================
+Group 701 of anagrams 
+'here 
+here' 
+=================
+Group 702 of anagrams 
+'others 
+others' 
+other's 
+=================
+Group 703 of anagrams 
+pursuers 
+usurpers 
+=================
+Group 704 of anagrams 
+'flee 
+feel' 
+=================
+Group 705 of anagrams 
+ve 
+ev 
+=================
+Group 706 of anagrams 
+se 
+es 
+=================
+Group 707 of anagrams 
+heal 
+hale 
+=================
+Group 708 of anagrams 
+maggot's 
+'maggots 
+=================
+Group 709 of anagrams 
+snarled 
+landers 
+=================
+Group 710 of anagrams 
+farmer's 
+farmers' 
+=================
+Group 711 of anagrams 
+mugs 
+gums 
+=================
+Group 712 of anagrams 
+'i'm 
+i'm' 
+=================
+Group 713 of anagrams 
+'you'd 
+'d'you 
+=================
+Group 714 of anagrams 
+mats 
+mast 
+=================
+Group 715 of anagrams 
+leaps 
+pleas 
+=================
+Group 716 of anagrams 
+hounds 
+unshod 
+=================
+Group 717 of anagrams 
+ite 
+tie 
+=================
+Group 718 of anagrams 
+dew 
+ewd 
+wed 
+=================
+Group 719 of anagrams 
+parsley 
+sparely 
+players 
+=================
+Group 720 of anagrams 
+wood's 
+'woods 
+=================
+Group 721 of anagrams 
+ruts 
+rust 
+=================
+Group 722 of anagrams 
+de 
+ed 
+=================
+Group 723 of anagrams 
+dr 
+rd 
+=================
+Group 724 of anagrams 
+lain 
+nail 
+=================
+Group 725 of anagrams 
+fter 
+fret 
+=================
+Group 726 of anagrams 
+leered 
+reeled 
+=================
+Group 727 of anagrams 
+lily 
+ilyl 
+=================
+Group 728 of anagrams 
+refresh 
+fresher 
+=================
+Group 729 of anagrams 
+you'd 
+d'you 
+=================
+Group 730 of anagrams 
+singer 
+reigns 
+=================
+Group 731 of anagrams 
+'fear 
+'fare 
+=================
+Group 732 of anagrams 
+beans 
+banes 
+=================
+Group 733 of anagrams 
+'show 
+how's 
+who's 
+=================
+Group 734 of anagrams 
+hand's 
+hands' 
+=================
+Group 735 of anagrams 
+hill' 
+'hill 
+=================
+Group 736 of anagrams 
+moan 
+amon 
+=================
+Group 737 of anagrams 
+railing 
+gilrain 
+=================
+Group 738 of anagrams 
+limb 
+imbl 
+=================
+Group 739 of anagrams 
+creatures' 
+creature's 
+=================
+Group 740 of anagrams 
+nder 
+rend 
+=================
+Group 741 of anagrams 
+stabling 
+blasting 
+=================
+Group 742 of anagrams 
+drives 
+divers 
+=================
+Group 743 of anagrams 
+hour's 
+hours' 
+=================
+Group 744 of anagrams 
+ps 
+sp 
+=================
+Group 745 of anagrams 
+dialect 
+citadel 
+=================
+Group 746 of anagrams 
+list 
+slit 
+=================
+Group 747 of anagrams 
+renew 
+newer 
+=================
+Group 748 of anagrams 
+neigh 
+hinge 
+=================
+Group 749 of anagrams 
+diddle 
+lidded 
+=================
+Group 750 of anagrams 
+cans 
+scan 
+=================
+Group 751 of anagrams 
+ranger 
+garner 
+=================
+Group 752 of anagrams 
+frost 
+forts 
+=================
+Group 753 of anagrams 
+swear 
+wears 
+=================
+Group 754 of anagrams 
+'guests 
+guests' 
+=================
+Group 755 of anagrams 
+awe 
+wea 
+=================
+Group 756 of anagrams 
+sallow 
+allows 
+=================
+Group 757 of anagrams 
+sly 
+syl 
+=================
+Group 758 of anagrams 
+ann 
+nan 
+=================
+Group 759 of anagrams 
+ship 
+hips 
+=================
+Group 760 of anagrams 
+ightly 
+ylight 
+=================
+Group 761 of anagrams 
+sparsely 
+parsleys 
+=================
+Group 762 of anagrams 
+lump 
+plum 
+=================
+Group 763 of anagrams 
+groan 
+organ 
+=================
+Group 764 of anagrams 
+rider's 
+'riders 
+=================
+Group 765 of anagrams 
+halts 
+shalt 
+=================
+Group 766 of anagrams 
+lap 
+pla 
+=================
+Group 767 of anagrams 
+`how 
+`who 
+=================
+Group 768 of anagrams 
+`it's 
+`'tis 
+=================
+Group 769 of anagrams 
+`evil 
+`live 
+=================
+Group 770 of anagrams 
+bardings 
+brigands 
+=================
+Group 771 of anagrams 
+`there 
+`three 
+=================
+Group 772 of anagrams 
+gnashing 
+hangings 
+=================
+Group 773 of anagrams 
+oar 
+roa 
+=================
+Group 774 of anagrams 
+gut 
+tug 
+=================
+Group 775 of anagrams 
+peas 
+apes 
+=================
+Group 776 of anagrams 
+nef 
+fen 
+=================
+Group 777 of anagrams 
+yea 
+aye 
+=================
+Group 778 of anagrams 
+crave 
+carve 
+=================
+Group 779 of anagrams 
+recounted 
+countered 
+=================
+Group 780 of anagrams 
+verily 
+livery 
+=================
+Group 781 of anagrams 
+halfling's 
+'halflings 
+=================
+Group 782 of anagrams 
+otherwise' 
+'otherwise 
+=================
+Group 783 of anagrams 
+agh 
+gah 
+=================
+Group 784 of anagrams 
+steed 
+ested 
+=================
+Group 785 of anagrams 
+ants 
+sant 
+=================
+Group 786 of anagrams 
+orald 
+aldor 
+=================
+Group 787 of anagrams 
+`no 
+`on 
+=================
+Group 788 of anagrams 
+wanes 
+answe 
+=================
+Group 789 of anagrams 
+regains 
+searing 
+=================
+Group 790 of anagrams 
+'despair 
+'praised 
+=================
+Group 791 of anagrams 
+november 
+novembre 
+=================
+Group 792 of anagrams 
+girt 
+grit 
+=================
+Group 793 of anagrams 
+l' 
+'l 
+=================
+Group 794 of anagrams 
+lf 
+fl 
+=================
+Group 795 of anagrams 
+bc 
+cb 
+=================
+Group 796 of anagrams 
+tool 
+loot 
+=================
+Group 797 of anagrams 
+spray 
+prays 
+=================
+Group 798 of anagrams 
+shattering 
+straighten 
+=================
+Group 799 of anagrams 
+guards' 
+guard's 
+=================
+Group 800 of anagrams 
+mason 
+moans 
+=================
+Group 801 of anagrams 
+hall's 
+'shall 
+=================
+Group 802 of anagrams 
+lee 
+eel 
+=================
+Group 803 of anagrams 
+'orcs 
+orcs' 
+orc's 
+=================
+Group 804 of anagrams 
+rot 
+tor 
+=================
+Group 805 of anagrams 
+land's 
+'lands 
+=================
+Group 806 of anagrams 
+rights 
+girths 
+=================
+Group 807 of anagrams 
+heeding 
+neighed 
+=================
+Group 808 of anagrams 
+ar 
+ra 
+=================
+Group 809 of anagrams 
+tier 
+tire 
+=================
+Group 810 of anagrams 
+up` 
+`up 
+=================
+Group 811 of anagrams 
+ows 
+swo 
+=================
+Group 812 of anagrams 
+'aye 
+'yea 
+=================
+Group 813 of anagrams 
+spire 
+piers 
+=================
+Group 814 of anagrams 
+dashing 
+shading 
+=================
+Group 815 of anagrams 
+bury 
+ruby 
+=================
+Group 816 of anagrams 
+'nay 
+'any 
+=================
+Group 817 of anagrams 
+bosom 
+booms 
+=================
+Group 818 of anagrams 
+ridged 
+girded 
+=================
+Group 819 of anagrams 
+'unless 
+unless' 
+=================
+Group 820 of anagrams 
+halfings 
+flashing 
+=================
+Group 821 of anagrams 
+swine 
+sinew 
+=================
+Group 822 of anagrams 
+guts 
+gust 
+=================
+Group 823 of anagrams 
+defiant 
+fainted 
+=================
+Group 824 of anagrams 
+'west 
+'stew 
+=================
+Group 825 of anagrams 
+ape 
+pea 
+=================
+Group 826 of anagrams 
+hardier 
+harried 
+=================
+Group 827 of anagrams 
+'lembas 
+blame's 
+=================
+Group 828 of anagrams 
+da 
+ad 
+=================
+Group 829 of anagrams 
+'up 
+up' 
+=================
+Group 830 of anagrams 
+sores 
+roses 
+=================
+Group 831 of anagrams 
+'hoo 
+'oho 
+=================
+Group 832 of anagrams 
+rumba 
+umbar 
+=================
+Group 833 of anagrams 
+stranger's 
+strangers' 
+=================
+Group 834 of anagrams 
+ents' 
+'ents 
+=================
+Group 835 of anagrams 
+sin 
+ins 
+=================
+Group 836 of anagrams 
+rubble 
+lubber 
+=================
+Group 837 of anagrams 
+leering 
+reeling 
+=================
+Group 838 of anagrams 
+'legolas 
+legolas' 
+=================
+Group 839 of anagrams 
+obtains 
+bastion 
+=================
+Group 840 of anagrams 
+'battle 
+battle' 
+=================
+Group 841 of anagrams 
+cha 
+ach 
+=================
+Group 842 of anagrams 
+sharers 
+rashers 
+=================
+Group 843 of anagrams 
+'men 
+men' 
+=================
+Group 844 of anagrams 
+burg 
+grub 
+=================
+Group 845 of anagrams 
+wall's 
+walls' 
+=================
+Group 846 of anagrams 
+repa 
+reap 
+rape 
+pare 
+=================
+Group 847 of anagrams 
+islet 
+itsel 
+=================
+Group 848 of anagrams 
+weariness' 
+'weariness 
+=================
+Group 849 of anagrams 
+spate 
+peats 
+=================
+Group 850 of anagrams 
+insect 
+nicest 
+=================
+Group 851 of anagrams 
+sobs 
+boss 
+=================
+Group 852 of anagrams 
+tries 
+tiers 
+=================
+Group 853 of anagrams 
+'smjagol 
+smjagol' 
+=================
+Group 854 of anagrams 
+captain's 
+captains' 
+=================
+Group 855 of anagrams 
+recess 
+screes 
+=================
+Group 856 of anagrams 
+par 
+rap 
+=================
+Group 857 of anagrams 
+`ya 
+`ay 
+=================
+Group 858 of anagrams 
+salver 
+slaver 
+=================
+Group 859 of anagrams 
+lords' 
+'lords 
+lord's 
+=================
+Group 860 of anagrams 
+'weeks 
+week's 
+=================
+Group 861 of anagrams 
+heals 
+shale 
+=================
+Group 862 of anagrams 
+cotton's 
+cottons' 
