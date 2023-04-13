@@ -1,6 +1,8 @@
 objective: program gives anagrams from text file book.txt
 
-with the lord of the rings 862 anagrams
+Example of anagrams: these & sheet, same characters in different order
+
+example with the lord of the rings 862 anagrams
 
 =================
 Group 1 of anagrams 
